@@ -4,9 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AL.iml" filepath="$PROJECT_DIR$/AL.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlgoritmoVoraces/AlgoritmoVoraces.iml" filepath="$PROJECT_DIR$/AlgoritmoVoraces/AlgoritmoVoraces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/DivideVenceras/DivideVenceras.iml" filepath="$PROJECT_DIR$/DivideVenceras/DivideVenceras.iml" />
       <module fileurl="file://$PROJECT_DIR$/PDinamica/PDinamica.iml" filepath="$PROJECT_DIR$/PDinamica/PDinamica.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VoracesExams/VoracesExams.iml" filepath="$PROJECT_DIR$/VoracesExams/VoracesExams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Voraces/Voraces.iml" filepath="$PROJECT_DIR$/Voraces/Voraces.iml" />
     </modules>
   </component>
 </project>
